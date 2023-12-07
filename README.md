@@ -1,0 +1,2 @@
+# artifox
+ArtiFox WordPress Theme
